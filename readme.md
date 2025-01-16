@@ -1,5 +1,6 @@
 # Flow Matching Image Generation
-![output_mnist](https://github.com/user-attachments/assets/a0c66b52-49f4-40bc-bec4-132f8ef2df35)
+![flow matching](https://github.com/user-attachments/assets/78d56f06-29e7-461c-9f9d-0d024549f853)
+
 
 This project implements a flow matching model for image generation using PyTorch Lightning. The model is trained on the MNIST dataset and can generate new images using a learned flow.
 
@@ -8,6 +9,9 @@ This project implements a flow matching model for image generation using PyTorch
 ```bash
 pip install -r requirements.txt
 ```
+## Jupyter Notebook
+
+The project includes a Jupyter notebook (`flow-matching-with-mnist-dataset.ipynb`) that demonstrates the flow matching process and provides the complete workflow of the training on kaggle
 
 ## Training
 
@@ -27,6 +31,7 @@ Key training arguments:
 - `--patience`: Early stopping patience (default: 3)
 
 ## Generation
+![output_mnist](https://github.com/user-attachments/assets/a0c66b52-49f4-40bc-bec4-132f8ef2df35)
 
 To generate new images using a trained model, run:
 
