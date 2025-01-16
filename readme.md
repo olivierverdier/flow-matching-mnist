@@ -1,4 +1,5 @@
 # Flow Matching Image Generation
+![output_mnist](https://github.com/user-attachments/assets/a0c66b52-49f4-40bc-bec4-132f8ef2df35)
 
 This project implements a flow matching model for image generation using PyTorch Lightning. The model is trained on the MNIST dataset and can generate new images using a learned flow.
 
