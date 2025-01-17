@@ -1,4 +1,4 @@
-# Flow Matching Image Generation
+# Flow Matching for MNIST
 ![flow matching](https://github.com/user-attachments/assets/78d56f06-29e7-461c-9f9d-0d024549f853)
 
 
