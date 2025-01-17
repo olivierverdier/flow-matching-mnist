@@ -41,7 +41,7 @@ python generate.py --checkpoint path/to/checkpoint.ckpt --num_samples 16
 
 Key generation arguments:
 - `--checkpoint`: Path to model checkpoint (required)
-- `--num_samples`: Number of images to generate (default: 16)
+- `--num_samples`: Number of images to generate (default: 32)
 - `--batch_size`: Batch size for generation (default: 32)
 - `--output_dir`: Directory to save generated images (default: 'generated')
 - `--num_steps`: Number of steps for generation (default: 2)
