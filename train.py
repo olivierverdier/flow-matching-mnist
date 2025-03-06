@@ -1,4 +1,4 @@
-from .flow_matching_model import ImageFlowMatcher
+from flow_matching_model import ImageFlowMatcher
 import pytorch_lightning as pl
 from torchvision import transforms, datasets 
 from torch.utils.data import DataLoader
